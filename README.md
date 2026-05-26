@@ -28,3 +28,5 @@ python main.py
 
 ## UML Diagram
 Součástí projektu je i UML class diagram.
+
+![Class Diagram](class_diagram_professional.png)
