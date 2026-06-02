@@ -1,18 +1,12 @@
-# Currency Converter (OOP)
+# Currency Converter 
 
-Jednoduchý objektově orientovaný převodník měn v Pythonu.
+Převodník měn v Pythonu
 
 ## Funkce
 - aktuální kurzy měn z API
-- objektově orientovaný návrh
 - validace vstupů
 - konzolové rozhraní
-- snadné rozšíření projektu
 
-## Použité technologie
-- Python
-- Requests
-- ExchangeRate API
 
 ## Instalace
 
@@ -25,8 +19,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-## UML Diagram
-Součástí projektu je i UML class diagram.
-
-![Class Diagram](class_diagram_professional.png)
